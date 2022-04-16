@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x5827E6cb2EA599C376b1c6BeEB20adE4b050FA39"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to Bored Bunnys Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'WELCOME TO THE BORED BUNNYS CLUB - THESE GUYS ARE CERTAINLY HERE TO STAY. FOLLOW ME ON TWITTER AND JOIN OUR FACEBOOK GROUP, THE LINK CAN BE FOUND ON TWITTER PROFILE,OPENSEA AND RARIBLE. 40% of profits will be going back to the holders, $20,000 giveaway once sold out, Exclusive access to Holders Private Communtiy Group, You own all/full commercial rights to your NFT you hold. All holders will receive Bored Bunnys Club merchant eg clothing, NFT displays for your desk.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
