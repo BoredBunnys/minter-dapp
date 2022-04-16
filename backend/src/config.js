@@ -74,7 +74,7 @@ const PRESALE_WHITELISTED_ADDRESSES = ["0x775eF6BcF9d88DD3C9097E5F1b864f2bE58059
 let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
-const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
+const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "WELCOME TO THE BORED BUNNYS CLUB - THESE GUYS ARE CERTAINLY HERE TO STAY. FOLLOW ME ON TWITTER AND JOIN OUR FACEBOOK GROUP, THE LINK CAN BE FOUND ON TWITTER PROFILE,OPENSEA AND RARIBLE. 40% of profits will be going back to the holders, $20,000 giveaway once sold out, Exclusive access to Holders Private Communtiy Group, You own all/full commercial rights to your NFT you hold. All holders will receive Bored Bunnys Club merchant eg clothing, NFT displays for your desk."; // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafkreidhjkdl6nxskeimufhzt4kjngwfbmzt3xhs6jbpiux7tt5hq7y7qq"; // Replace with your generic image that will display for all NFTs pre-reveal.
