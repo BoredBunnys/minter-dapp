@@ -13,7 +13,7 @@ const p_presale_coming_soon = "We are working hard to launch the NFT Collection.
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "NO WHITELIST NEEDED - These guys are certainly here to stay. Follow us on twitter <a href="https://twitter.com/KrazyCrypsNZ/"target="_blank">Visit BoredBunnys</a> and join our facebook group <a href="https://www.facebook.com/groups/boredbunnysclub" target="_blank">Visit Bored Bunnys Facebook!</a>, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway. We use Polygon for the simple fact our collecters wont be charged high gas fees! 🎉";
+const p_public_mint = "NO WHITELIST NEEDED - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Hit our twitter link at the top of this page. 40% of profits will be going back to the holders, $20,000 giveaway. We use Polygon for the simple fact our collecters wont be charged high gas fees! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
