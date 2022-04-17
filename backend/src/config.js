@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Bored Bunnys Club";
-const description = "WELCOME TO THE BORED BUNNYS CLUB - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway once sold out, Exclusive access to Holders Private Communtiy Group.";
+const description = "WELCOME TO THE BORED BUNNYS CLUB - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
@@ -76,7 +76,7 @@ let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually inclu
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
-const GENERIC_DESCRIPTION = "WELCOME TO THE BORED BUNNYS CLUB - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway once sold out, Exclusive access to Holders Private Communtiy Group."; // Replace with what you want the generic descriptions to say.
+const GENERIC_DESCRIPTION = "WELCOME TO THE BORED BUNNYS CLUB - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway."; // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafkreidhjkdl6nxskeimufhzt4kjngwfbmzt3xhs6jbpiux7tt5hq7y7qq"; // Replace with your generic image that will display for all NFTs pre-reveal.
 
 // Automatically set contract address if deployed using the deployContract.js script
