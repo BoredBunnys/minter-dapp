@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Bored Bunnys Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Welcome to the bored bunnys club - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway.';
+const welcome_p = 'Welcome to the bored bunnys club - These guys are certainly here to stay. Follow us on twitter and join our facebook group, Links can be found on twitter and facebook. 40% of profits will be going back to the holders, $20,000 giveaway. We use Polygon for the simple fact our collecters wont be charged high gas fees :)';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
